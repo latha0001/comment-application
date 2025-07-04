@@ -222,10 +222,12 @@ The application is designed for horizontal scaling:
 
 ## Backend tests
 cd backend
+
 npm run test
 
 ## Frontend tests
 cd frontend
+
 npm run test
 
 ## License
