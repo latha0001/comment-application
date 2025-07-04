@@ -220,9 +220,6 @@ The application is designed for horizontal scaling:
 - Connection pooling for database
 - Optimized Docker images with multi-stage builds
 
-## Testing
-
-\`\`\`bash
 ## Backend tests
 cd backend
 npm run test
@@ -230,7 +227,6 @@ npm run test
 ## Frontend tests
 cd frontend
 npm run test
-\`\`\`
 
 ## License
 
