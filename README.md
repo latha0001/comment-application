@@ -47,6 +47,7 @@ This will build and start all services:
 - Backend API: http://localhost:3001
 - PostgreSQL: localhost:5432
 - Redis: localhost:6379
+- vercel: https://fgh-task-overviews-projects.vercel.app/
 
 ### Local Development
 
